@@ -12,7 +12,7 @@ Construir um dataframe para o conjunto de dados TikTok Examinar o tipo de dados 
 
 #### Autora
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/103262900?v=4" width=115><br><sub>Seu Nome</sub>](https://github.com/brunacpg) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/103262900?v=4" width=115><br><sub>Bruna Gonçalves</sub>](https://github.com/brunacpg) |
 | :---: |
 
 
