@@ -5,7 +5,7 @@
 
 #### Descrição do Projeto
 
-O TikTok está trabalhando no desenvolvimento de um modelo preditivo que pode determinar se um vídeo contém uma afirmação ou oferece uma opinião. Com um modelo de previsão bem-sucedido, o TikTok pode reduzir o acúmulo de relatórios de usuários e priorizá-los de forma mais eficiente. (Obs: é um projeto fictício) <br>
+O TikTok está trabalhando no desenvolvimento de um modelo preditivo que pode determinar se um vídeo contém uma afirmação ou oferece uma opinião. Com um modelo de previsão bem-sucedido, o TikTok pode reduzir o acúmulo de relatórios de usuários e priorizá-los de forma mais eficiente. Proposta do projeto no objetivo final é usar o aprendizado de máquina para classificar vídeos como afirmações ou opiniões.(Obs: é um projeto fictício) <br>
 
 #### Objetivo do Projeto
 Construir um dataframe para o conjunto de dados TikTok Examinar o tipo de dados de cada coluna e reunir estatísticas descritivas.
